@@ -25,7 +25,7 @@
   <AssigningRequiresBladderNeed>L'attribution nécessite un besoin de vessie, {0} n'en a pas</AssigningRequiresBladderNeed>
 
   <NoCompostingMaterial>Pas de matériel de compostage</NoCompostingMaterial>
-   <Nowater>Pas de capacité d'eau</Nowater>
+  <Nowater>Pas de capacité d'eau</Nowater>
   <Nosewage>Pas de capacité d'égout</Nosewage>
   <RequiresPlumbing>Nécessite la plomberie</RequiresPlumbing>
   <AccessRestricted>Accès restreint</AccessRestricted>
@@ -156,7 +156,9 @@
   <PrisonersGetNeedsTip>Si les prisonniers auront les besoins</PrisonersGetNeedsTip>
   <HospitalityGuestsGetNeeds>Invités d'hospitalité</HospitalityGuestsGetNeeds>
   <HospitalityGuestsGetNeedsTip>Si les invités du mod "Hospitality" ont les besoins</HospitalityGuestsGetNeedsTip>
-
+  <DisableNeeds>Désactiver les besoins</DisableNeeds>
+  <DisableNeedsTip>Désactiver complètement les besoins, remplace tous les autres paramètres</DisableNeedsTip>
+  
 
   <Experimentalfeatures>Caractéristiques expérimentales</Experimentalfeatures>
   <OutsidersGetNeeds>Outsiders</OutsidersGetNeeds>
@@ -171,4 +173,5 @@
   <FertilizerVisibleTip>Si la grille d'engrais doit être visible</FertilizerVisibleTip>
   <AllowNonHuman>Colons Non Humains</AllowNonHuman>
   <AllowNonHumanTip>Permettre aux besoins d'exécuter des colons non humains, (probablement ne fonctionnera pas), Remplacé par les paramètres de besoin</AllowNonHumanTip>
-</LanguageData>
+
+  </LanguageData>

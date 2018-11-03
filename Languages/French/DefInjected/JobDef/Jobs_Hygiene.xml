@@ -21,6 +21,8 @@
   <cleanBedpan.reportString>Nettoie le bassin</cleanBedpan.reportString>
   <clearBlockage.reportString>Soulage la constipation TargetA.</clearBlockage.reportString>
   <CleanBucket.reportString>Nettoie le seau de ménage</CleanBucket.reportString>
-
-
+  <TriggerFireSprinkler.reportString>Activer TargetA</TriggerFireSprinkler.reportString>
+  <washAtCell.reportString>Laver.</washAtCell.reportString>
+  
+  
 </LanguageData>
