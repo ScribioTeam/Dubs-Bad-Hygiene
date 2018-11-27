@@ -2,7 +2,10 @@
 <LanguageData>
 
   <!-- Pipes -->
-  
+
+  <sewagePipe.label>Tuyaux (standard)</sewagePipe.label>
+  <sewagePipe.description>Tuyauterie pour raccord de plomberie.</sewagePipe.description>
+
   <sewagePipeStuff.label>tuyau</sewagePipeStuff.label>
   <sewagePipeStuff.description>Tuyauterie pour raccord de plomberie.</sewagePipeStuff.description>
   <sewagePipeStuff_Blueprint.label>tuyau (plan)</sewagePipeStuff_Blueprint.label>

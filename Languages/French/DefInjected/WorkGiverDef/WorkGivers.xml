@@ -36,17 +36,7 @@
   <DocCleanBedpan.label>Bassin de lit propre</DocCleanBedpan.label>
   <DocCleanBedpan.verb>propre</DocCleanBedpan.verb>
   <DocCleanBedpan.gerund>nettoyé</DocCleanBedpan.gerund>
-  
-  <emptySepticTank.label>Fosse septique vide</emptySepticTank.label>
-  <emptySepticTank.verb>Vider la fosse septique</emptySepticTank.verb>
-  <emptySepticTank.gerund>Vide la fosse septique</emptySepticTank.gerund>
-  
-  <DBHAdministerFluids.label>Fluides administrer</DBHAdministerFluids.label>
-  <DBHAdministerFluids.verb>Administrer des fluides</DBHAdministerFluids.label>
-  <DBHAdministerFluids.gerund>Administre des fluides</DBHAdministerFluids.label>
-  
-  <CleanBucket.label>Seau Propre</CleanBucket.label>
-  <CleanBucket.verb>Nettoyer le seau</CleanBucket.verb>
-  <CleanBucket.gerund>Nettoie le seau</CleanBucket.gerund>
-  
+
+
+
 </LanguageData>

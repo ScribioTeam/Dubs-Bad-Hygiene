@@ -4,11 +4,6 @@
   <Washing.label>laver</Washing.label>
   <Washing.labelNoun>laver</Washing.labelNoun>
 
-  <Diarrhea.label>Diarrhée</Diarrhea.label>
-  <Diarrhea.stages.recovering.label>se remettre</Diarrhea.stages.recovering.label>
-  <Diarrhea.stages.major.label>Majeur</Diarrhea.stages.major.label>
-  <Diarrhea.stages.initial.label>initiale</Diarrhea.stages.initial.label>
-  
   <BadHygiene.label>Mauvaise hygiène</BadHygiene.label>
   <BadHygiene.stages.0.label>modérément (caché)</BadHygiene.stages.0.label>
   <BadHygiene.stages.1.label>sérieusement</BadHygiene.stages.1.label>
