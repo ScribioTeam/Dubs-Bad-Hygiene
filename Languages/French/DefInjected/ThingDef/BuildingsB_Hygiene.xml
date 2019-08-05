@@ -63,10 +63,6 @@
   <ToiletStuff_Frame.label>Toilette (En cours de construction)</ToiletStuff_Frame.label>
   <ToiletStuff_Frame.description>Dispositif sanitaire pour recevoir des excrément corporels.</ToiletStuff_Frame.description>
 
-  <ToiletAdv.label>Toilette Intelligente(Standard)</ToiletAdv.label>
-  <ToiletAdv.description>Deux fois plus économes en eau qu'une toilette standard, il offre une expérience multifonctionnelle optimale grâce au nettoyage et à la désodorisation automatiques.</ToiletAdv.description>
-  <ToiletAdv_Blueprint_Install.label>Toilette Intelligente (Standard) (plan)</ToiletAdv_Blueprint_Install.label>
-
   <ToiletAdvStuff.label>Toilette Intelligente</ToiletAdvStuff.label>
   <ToiletAdvStuff.description>Deux fois plus économes en eau qu'une toilette standard, il offre une expérience multifonctionnelle optimale grâce au nettoyage et à la désodorisation automatiques.</ToiletAdvStuff.description>
   <ToiletAdvStuff_Blueprint.label>Toilette Intelligente (plan)</ToiletAdvStuff_Blueprint.label>
@@ -92,10 +88,6 @@
   <ShowerStuff_Blueprint_Install.label>Douche (plan)</ShowerStuff_Blueprint_Install.label>
   <ShowerStuff_Frame.label>Douche (En cours de construction)</ShowerStuff_Frame.label>
   <ShowerStuff_Frame.description>Douche simple, nécessite de l'eau des Château d'eau, peut être chauffée dans des réservoirs d'eau chaude, ne nécessite pas de drainage.</ShowerStuff_Frame.description>
-
-  <ShowerAdv.label>Douche Intelligente (Standard)</ShowerAdv.label>
-  <ShowerAdv.description>Doté d'une grande pomme de douche à 4 jets de 110 mm pour détendre les muscles endoloris, chauffer l'eau au besoin et doubler le taux de lavage!</ShowerAdv.description>
-  <ShowerAdv_Blueprint_Install.label>Douche Intelligente (Standard) (plan)</ShowerAdv_Blueprint_Install.label>
 
   <ShowerAdvStuff.label>Douche Intelligente</ShowerAdvStuff.label>
   <ShowerAdvStuff.description>Doté d'une grande pomme de douche à 4 jets de 110 mm pour détendre les muscles endoloris, chauffer l'eau au besoin et doubler le taux de lavage!</ShowerAdvStuff.description>
