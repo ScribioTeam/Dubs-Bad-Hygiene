@@ -1,17 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- LEGACY -->
-
-  <ImmersionHeater.label>chaudière(Discontinue)</ImmersionHeater.label>
-  <ImmersionHeater.description>remplacez-le par une chaudière électrique et un réservoir d'eau chaude!</ImmersionHeater.description>
-  <ImmersionHeater_Blueprint_Install.label>chaudière(Discontinue) (Plan)</ImmersionHeater_Blueprint_Install.label>
-
-  <FueledBoiler.label>Poêle multi-combustibles(Plan)</FueledBoiler.label>
-  <FueledBoiler.description>Remplacez-le par un poêle à bois ou une chaudière à gaz!</FueledBoiler.description>
-  <FueledBoiler_Blueprint_Install.label>Poêle multi-combustibles(Plan) </FueledBoiler_Blueprint_Install.label>
-
-
   <!-- Heating -->
 
   <Thermostat.label>thermostat</Thermostat.label>

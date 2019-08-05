@@ -21,8 +21,7 @@
   <BlockedSewageDesc>Sewage has built up around the drain hole and is blocking the outlet.\n\nBuild more outlets or add a septic tank to create a buffer and reduce pressure on the outlets.</BlockedSewageDesc>
   <LowWaterTemp>Low Water Temp</LowWaterTemp>
   <LowWaterTempDesc>The water temperature in this tank is too low, colonists expecting to use hot water may get annoyed.\n\nTurn on boilers, increase the heating capacity or add another hot water tank.</LowWaterTempDesc>
-  <WellNeedsWater>Must be placed over a cell with ground water.</WellNeedsWater>
-  
+  <WellNeedsWater>Must be placed over a cell with ground water.</WellNeedsWater> 
   <AssigningRequiresBladderNeed>Assigning requires bladder need, {0} doesn't have it</AssigningRequiresBladderNeed>
 
   <NoCompostingMaterial>No composting material</NoCompostingMaterial>

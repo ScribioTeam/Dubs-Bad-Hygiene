@@ -29,6 +29,13 @@
   
   <washPatient.reportString>lavages TargetA.</washPatient.reportString>
   <cleanBedpan.reportString>Nettoie le bassin</cleanBedpan.reportString>
-  <CleanBucket.reportString>Nettoie le seau de ménage</CleanBucket.reportString>
-
+  
+  <LoadFridge.reportString>Rempli TargetA.</LoadFridge.reportString>
+  <LoadWashing.reportString>Rempli TargetA</LoadWashing.reportString>
+  <UnloadWashing.reportString>Vider TargetA</UnloadWashing.reportString>
+  <washAtCell.reportString>Lave</washAtCell.reportString>
+  <RefillTub.reportString>Remplissage du bac de lavage</RefillTub.reportString>
+  <TipOverSewage.reportString>Basculer TargetA</TipOverSewage.reportString>
+  
+  
 </LanguageData>

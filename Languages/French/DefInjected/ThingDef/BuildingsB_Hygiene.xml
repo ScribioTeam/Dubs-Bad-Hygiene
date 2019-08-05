@@ -39,10 +39,6 @@
 
   <!-- Basins -->
 
-  <Basin.label>lavabo (Standard)</Basin.label>
-  <Basin.description>Lavabo pour se laver les mains.\n\nInstructions vendues séparément.</Basin.description>
-  <Basin_Blueprint_Install.label>lavabo (Standard) (plan)</Basin_Blueprint_Install.label>
-
   <BasinStuff.label>lavabo</BasinStuff.label>
   <BasinStuff.description>Lavabo pour se laver les mains.\n\nInstructions vendues séparément.</BasinStuff.description>
   <BasinStuff_Blueprint.label>lavabo (plan)</BasinStuff_Blueprint.label>
@@ -59,10 +55,6 @@
 
 
   <!-- Toilets -->
-
-  <Toilet.label>Toilette (Standard)</Toilet.label>
-  <Toilet.description>Dispositif sanitaire pour recevoir des excrément corporels.</Toilet.description>
-  <Toilet_Blueprint_Install.label>Toilette (Standard) (plan)</Toilet_Blueprint_Install.label>
 
   <ToiletStuff.label>Toilette</ToiletStuff.label>
   <ToiletStuff.description>Dispositif sanitaire pour recevoir des excrément corporels.</ToiletStuff.description>
@@ -84,10 +76,6 @@
 
   <!-- Baths -->
 
- <Bathtub.label>bain (neutral)</Bathtub.label>
-  <Bathtub.description>Lent à utiliser, nécessite de grandes quantités d'eau, mais très confortable. Peut être chauffé en plaçant un feu de camp adjacent ou via des réservoirs d'eau chaude. N'a pas besoin d'un raccordement d'égout.</Bathtub.description>
-  <Bathtub_Blueprint_Install.label>bain (neutral) (plan)</Bathtub_Blueprint_Install.label>
-
   <BathtubStuff.label>bain</BathtubStuff.label>
   <BathtubStuff.description>Lent à utiliser, nécessite de grandes quantités d'eau, mais très confortable. Peut être chauffé en plaçant un feu de camp adjacent ou via des réservoirs d'eau chaude. N'a pas besoin d'un raccordement d'égoutgt.</BathtubStuff.description>
   <BathtubStuff_Blueprint.label>bain (plan)</BathtubStuff_Blueprint.label>
@@ -97,10 +85,6 @@
 
 
   <!-- Showers -->
-
-  <Shower.label>douche (Standard)</Shower.label>
-  <Shower.description>Douche simple, nécessite de l'eau des Château d'eau, peut être chauffée dans des réservoirs d'eau chaude, ne nécessite pas de drainage.</Shower.description>
-  <Shower_Blueprint_Install.label>douche (Standard) (plan)</Shower_Blueprint_Install.label>
 
   <ShowerStuff.label>Douche</ShowerStuff.label>
   <ShowerStuff.description>Douche simple, nécessite de l'eau des Château d'eau, peut être chauffée dans des réservoirs d'eau chaude, ne nécessite pas de drainage.</ShowerStuff.description>

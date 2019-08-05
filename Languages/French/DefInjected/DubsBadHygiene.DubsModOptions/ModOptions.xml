@@ -20,13 +20,6 @@
   <HygieneRate.options.3.label>150%</HygieneRate.options.3.label>
   <HygieneRate.options.4.label>200%</HygieneRate.options.4.label>
 
-  <BladderRate.label>Digestion</BladderRate.label>
-  <BladderRate.options.0.label>Cheat</BladderRate.options.0.label>
-  <BladderRate.options.1.label>50%</BladderRate.options.1.label>
-  <BladderRate.options.2.label>100%</BladderRate.options.2.label>
-  <BladderRate.options.3.label>150%</BladderRate.options.3.label>
-  <BladderRate.options.4.label>200%</BladderRate.options.4.label>
-
   <ContaminationChance.label>contamination</ContaminationChance.label>
   <ContaminationChance.options.0.label>Cheat</ContaminationChance.options.0.label>
   <ContaminationChance.options.1.label>10%</ContaminationChance.options.1.label>
@@ -51,13 +44,6 @@
   <SewageGridCapacity.options.2.label>normal</SewageGridCapacity.options.2.label>
   <SewageGridCapacity.options.3.label>stimulant</SewageGridCapacity.options.3.label>
   <SewageGridCapacity.options.4.label>extrême</SewageGridCapacity.options.4.label>
-
-  <SewageCleanupRate.label>taux d'eaux usées</SewageCleanupRate.label>
-  <SewageCleanupRate.options.0.label>Cheat</SewageCleanupRate.options.0.label>
-  <SewageCleanupRate.options.1.label>juste</SewageCleanupRate.options.1.label>
-  <SewageCleanupRate.options.2.label>Normal</SewageCleanupRate.options.2.label>
-  <SewageCleanupRate.options.3.label>stimulant</SewageCleanupRate.options.3.label>
-  <SewageCleanupRate.options.4.label>extrême</SewageCleanupRate.options.4.label>
 
   <SewageProcRate.label>Taux de traitement des eaux usées</SewageProcRate.label>
   <SewageProcRate.options.0.label>Cheat</SewageProcRate.options.0.label>

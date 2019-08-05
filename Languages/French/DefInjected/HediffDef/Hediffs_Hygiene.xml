@@ -9,6 +9,9 @@
   <BadHygiene.stages.1.label>sérieusement</BadHygiene.stages.1.label>
   <BadHygiene.stages.2.label>dégoûtant</BadHygiene.stages.2.label>
 
+  <Diarrhea.label>Diarrhée</Diarrhea.label>
+  <Diarrhea.stages.recovering.label>se remet</Diarrhea.stages.recovering.label>
+
   <Dysentery.label>dysenterie</Dysentery.label>
   <Dysentery.stages.0.label>modérément (caché)</Dysentery.stages.0.label>
   <Diarrhea.stages.1.label>sérieusement</Diarrhea.stages.1.label>
