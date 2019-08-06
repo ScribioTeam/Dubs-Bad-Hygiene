@@ -1,6 +1,77 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
+
+  <!--<ThingDef ParentName="BasedHygieneMom">
+    <defName>HygieneRefrigerator</defName>
+    <label>Refrigerator</label>
+    <description>Keeps food at a low temperatures and provides easy access</description>
+    <thingClass>DubsBadHygiene.Building_Fridge</thingClass>
+    <graphicData>
+      <texPath>DBH/Things/Building/fridge</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1.5,1.5)</drawSize>
+    </graphicData>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsHygiene</li>
+    </thingCategories>
+    <category>Building</category>
+    <tickerType>Normal</tickerType>
+    <canOverlapZones>false</canOverlapZones>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>true</castEdgeShadows>
+    <pathCost>60</pathCost>
+    <size>(1,1)</size>
+    <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <costList>
+      <Steel>80</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <rotatable>true</rotatable>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>1200</WorkToBuild>
+      <Mass>25</Mass>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>20</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Breakdownable"/>
+    </comps>
+    <building>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <defaultStorageSettings>
+        <priority>Important</priority>
+        <filter>
+          <categories>
+            <li>Foods</li>
+          </categories>
+        </filter>
+      </defaultStorageSettings>
+      <fixedStorageSettings>
+        <filter>
+          <categories>
+            <li>Foods</li>
+          </categories>
+        </filter>
+      </fixedStorageSettings>
+    </building>
+    <inspectorTabs>
+      <li>ITab_Storage</li>
+    </inspectorTabs>
+    <designationCategory>HygieneMisc</designationCategory>
+  </ThingDef>-->
+  
+  
   <ThingDef ParentName="BasedFixture" Name="DubsHotTubBase">
     <description>Hot tub used for hydrotherapy, relaxation or pleasure. Filled with water from water towers on first use, self heated and does not require a sewage outlet.</description>
     <thingClass>DubsBadHygiene.Building_HotTub</thingClass>
@@ -38,6 +109,9 @@
       <joyKind>Social</joyKind>
     </building>
     <comps>
+      <li>
+        <compClass>CompColorable</compClass>
+      </li>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
         <basePowerConsumption>500</basePowerConsumption>
@@ -60,7 +134,8 @@
   <ThingDef ParentName="BasedHygieneMom">
     <defName>WashingMachine</defName>
     <label>Washing Machine</label>
-    <description>Spin cycle washing machine, it spins, and cycles, colonists can watch it and meditate, that is all!.</description>
+    <description>Washes clothes so well that you couldn't even tell someone died wearing it!</description>
+    <thingClass>DubsBadHygiene.Building_WashingMachine</thingClass>
     <graphicData>
       <texPath>DBH/Things/Building/washingMachine</texPath>
       <graphicClass>Graphic_Multi</graphicClass>
@@ -76,7 +151,7 @@
     <altitudeLayer>Building</altitudeLayer>
     <passability>PassThroughOnly</passability>
     <blockWind>false</blockWind>
-    <castEdgeShadows>false</castEdgeShadows>
+    <castEdgeShadows>true</castEdgeShadows>
     <pathCost>60</pathCost>
     <size>(1,1)</size>
     <costList>
@@ -96,8 +171,9 @@
       </li>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <basePowerConsumption>120</basePowerConsumption>
+        <basePowerConsumption>420</basePowerConsumption>
       </li>
+      <li Class="CompProperties_Forbiddable"/>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
     </comps>
@@ -108,10 +184,35 @@
         <max>3</max>
       </watchBuildingStandDistanceRange>
       <watchBuildingStandRectWidth>3</watchBuildingStandRectWidth>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <defaultStorageSettings>
+        <priority>Important</priority>
+        <filter>
+          <categories>
+            <li>Apparel</li>
+          </categories>
+          <disallowedThingDefs>
+            <li>Apparel_ShieldBelt</li>
+            <li>Apparel_SmokepopBelt</li>
+          </disallowedThingDefs>
+        </filter>
+      </defaultStorageSettings>
+      <fixedStorageSettings>
+        <filter>
+          <categories>
+            <li>Apparel</li>
+          </categories>
+        </filter>
+      </fixedStorageSettings>
     </building>
+    <inspectorTabs>
+      <li>ITab_Storage</li>
+    </inspectorTabs>
     <researchPrerequisites>
-      <li>WaterFiltration</li>
+      <li>WashingMachines</li>
     </researchPrerequisites>
     <designationCategory>HygieneMisc</designationCategory>
   </ThingDef>
+
 </Defs>
