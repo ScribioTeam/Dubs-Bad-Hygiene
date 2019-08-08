@@ -53,8 +53,9 @@
   <UsedPrivateBathroom.stages.7.description>Ma salle de bain est très impressionnante. C'est le meilleur endroit au monde!</UsedPrivateBathroom.stages.7.description>
 
   <UsedPrivateBathroom.stages.8.label>Une salle de bain incroyablement impressionnante</UsedPrivateBathroom.stages.8.label>
-
   <UsedPrivateBathroom.stages.8.description>Ma salle de bain est très impressionnante. C'est le meilleur endroit au monde!</UsedPrivateBathroom.stages.8.description>
-
   
+  <UsedPrivateBathroom.stages.decent_bathroom.label>Salle de bain décente</UsedPrivateBathroom.stages.decent_bathroom.label>
+  <UsedPrivateBathroom.stages.decent_bathroom.description>Ma salle de bain est vraiment interessante. J'aime ça.</UsedPrivateBathroom.stages.decent_bathroom.description>
+
 </LanguageData>

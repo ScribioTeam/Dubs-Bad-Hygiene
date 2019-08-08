@@ -63,7 +63,13 @@
   <RadiatorLarge_Frame.description>3 fois la puissance d'un radiateur standard, utile dans les grandes pièces.\n\nNécessite 300 unités de chauffage.</RadiatorLarge_Frame.description>
 
   <!-- COOLING -->
-
+  
+  <CeilingFan.label>Ventilateur de plafond 2x2</CeilingFan.label>
+  <CeilingFan.description>Refroidit une pièce en faisant circuler l'air, une lampe est intégrée</CeilingFan.description>
+  
+  <CeilingFanS.label>Ventilateur de plafond 1x1</CeilingFanS.label>
+  <CeilingFanS.description>Refroidit une pièce en faisant circuler l'air, une lampe est intégrée.</CeilingFanS.description>
+  
   <AirConOutdoorUnit.label>convecteurs extérieurs</AirConOutdoorUnit.label>
   <AirConOutdoorUnit.description>Climatisation multi-split.\nS'installe à l'extérieur des bâtiments.\n\nLe mode d'alimentation génère 100 à 1000 unités de refroidissement.</AirConOutdoorUnit.description>
   <AirConOutdoorUnit_Blueprint.label>convecteurs extérieurs (plan)</AirConOutdoorUnit_Blueprint.label>
@@ -84,6 +90,13 @@
   <FreezerUnit_Blueprint_Install.label>congélateur (plan)</FreezerUnit_Blueprint_Install.label>
   <FreezerUnit_Frame.label>congélateur (En cours de construction)</FreezerUnit_Frame.label>
   <FreezerUnit_Frame.description>Congélateur pour la congelation, nécessite une connexion aux convecteurs extérieurs.\n\nNécessite 300 unités de refroidissement.</FreezerUnit_Frame.description>
+
+  <LogBoiler.comps.CompBoiler.GizmoLabel>Power Mode</LogBoiler.comps.CompBoiler.GizmoLabel>
+  <GasBoiler.comps.CompBoiler.GizmoLabel>Power Mode</GasBoiler.comps.CompBoiler.GizmoLabel>
+  <ElectricBoiler.comps.CompBoiler.GizmoLabel>Power Mode</ElectricBoiler.comps.CompBoiler.GizmoLabel>
+  <SolarHeater.comps.CompBoilerSolar.GizmoLabel>Power Mode</SolarHeater.comps.CompBoilerSolar.GizmoLabel>
+  
+  <FireSprinkler.comps.CompUsable.useLabel>Déclencher l'arroseur d'incendie</FireSprinkler.comps.CompUsable.useLabel>
 
 
 </LanguageData>

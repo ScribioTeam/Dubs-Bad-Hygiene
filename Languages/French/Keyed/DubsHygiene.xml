@@ -191,4 +191,10 @@
   <FertilizerVisibleTip>Si la grille d'engrais doit être visible</FertilizerVisibleTip>
   <AllowNonHuman>Colons Non Humains</AllowNonHuman>
   <AllowNonHumanTip>Permettre aux besoins d'exécuter des colons non humains, (probablement ne fonctionnera pas), Remplacé par les paramètres de besoin</AllowNonHumanTip>
+  <StripWhileWashing>Nue pendant la douche</StripWhileWashing>
+  <StripWhileWashingTip>Enlevez les vêtements pendant le lavage (à désactiver si nécessaire pour résoudre les conflits de mod)</StripWhileWashingTip>
+  
+  <GetPaintShop>Obtenez le magasin de peinture de Dub</GetPaintShop>
+
+
 </LanguageData>

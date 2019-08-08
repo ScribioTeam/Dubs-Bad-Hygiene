@@ -2,7 +2,10 @@
 <LanguageData>
 
   <!-- Sewage Systems -->
-
+  
+  <WaterButt.label>Citerne</WaterButt.label>
+  <WaterButt.description>Stocke l'eau pour une utilisation dans les systèmes alimentés en eau. Si l’eau contenue devient contaminée, le réservoir doit être drainé.</WaterButt.description>
+  
   <WaterTowerS.label>château d'eau</WaterTowerS.label>
   <WaterTowerS.description>Stocke l'eau pour une utilisation dans les systèmes alimentés en eau. Si l'eau contaminée est contaminée, le réservoir doit être vidé.</WaterTowerS.description>
   <WaterTowerS_Blueprint.label>château d'eau (plan)</WaterTowerS_Blueprint.label>
@@ -47,6 +50,9 @@
 
   <WindPump.label>Pompe à vent</WindPump.label>
   <WindPump.description>Une pompe éolienne.\n\nPompe l'eau du puits dans les châteaux d'eau.\n\nCapacité de la pompe: 3000 L/Jour</WindPump.description>
+
+  <WindPumpStuffed>Pompe à vent</WindPumpStuffed>
+  <WindPumpStuffed.description>Pompe l'eau des puits vers les châteaux d'eau. Capacité de pompage: 3000 L / jour</WindPumpStuffed.description>
 
   <PumpingStation.label>station de pompage</PumpingStation.label>
   <PumpingStation.description>Pompe l'eau du puits dans les châteaux d'eau.\n\nCapacité de la pompe: 10000 L/Jour</PumpingStation.description>

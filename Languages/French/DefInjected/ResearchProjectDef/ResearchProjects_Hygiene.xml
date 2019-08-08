@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DubsBadHygiene.label>Hygiène et salle de bain de Dub</DubsBadHygiene.label>
-
   <Plumbing.label>Plomberie</Plumbing.label>
   <Plumbing.description>Utilisez des tuyaux et autres accessoires de plomberie ainsi que des réservoirs de stockage pour fournir et évacuer l'eau.</Plumbing.description>
   
@@ -32,8 +30,7 @@
   
   <WaterFiltration.label>Filtration de l'eau</WaterFiltration.label>
   <WaterFiltration.description>Construire des systèmes de filtration de l'eau qui traitent l'approvisionnement en eau en éliminant le risque de maladie.</WaterFiltration.description>
-  
-  
+    
   <CentralHeating.label>Système de chauffage</CentralHeating.label>
   <CentralHeating.description>Construire des chaudières à bois et à gaz, des réservoirs d'eau chaude et des radiateurs</CentralHeating.description>
   
@@ -49,5 +46,10 @@
   <FireSuppression.label>Système anti-incendie</FireSuppression.label>
   <FireSuppression.description>Construisez des arroseurs qui étteignent les incendies.</FireSuppression.description>
   
+  <SewageTreatment.label>Traitement des eaux usées</SewageTreatment.label>
+  <SewageTreatment.description>Construire de grands systèmes de traitement des eaux usées qui accumulent de grandes quantités d'eaux usées et permettent de les traiter vite.</SewageTreatment.description>
+  
+  <WashingMachines.label>Machine à Laver</WashingMachines.label>
+  <WashingMachines.description>Construisez des machines à laver les vêtements. Après lavage vous ne pourriez même pas dire si quelqu'un est mort en les portant!</WashingMachines.description>
   
 </LanguageData>
