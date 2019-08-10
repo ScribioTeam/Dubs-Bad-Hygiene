@@ -179,8 +179,6 @@
   <DisableNeedsTip>Désactiver complètement les besoins, remplace tous les autres paramètres</DisableNeedsTip>
 
   <Experimentalfeatures>Caractéristiques expérimentales</Experimentalfeatures>
-  <OutsidersGetNeeds>Outsiders</OutsidersGetNeeds>
-  <OutsidersGetNeedsTip>Si les étrangers, y compris les commerçants et les raiders, auront les besoins</OutsidersGetNeedsTip>
   <PetsGetBladder>Vessies pour animaux de compagnie</PetsGetBladder>
   <PetsGetBladderTip>Si les animaux ont besoin de la vessie</PetsGetBladderTip>
   <WildAnimalsGetBladder>Vessies d'animaux sauvages</WildAnimalsGetBladder>

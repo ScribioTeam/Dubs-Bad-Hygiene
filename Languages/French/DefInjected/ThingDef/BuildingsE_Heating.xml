@@ -24,9 +24,8 @@
   <Radiator.label>radiateur</Radiator.label>
   <Radiator.description>Salles chauffées avec eau chaude.\n\nNécessite 100 unités de chauffage.</Radiator.description>
 
-  <RadiatorStuffed.label>radiateur</RadiatorStuffed.label>
+  <RadiatorStuffed.label>Radiateur</RadiatorStuffed.label>
   <RadiatorStuffed.description>Salles chauffées avec eau chaude.\n\nNécessite 100 unités de chauffage.</RadiatorStuffed.description>
-  <RadiatorStuffed_Blueprint.label>radiateur (plan)</RadiatorStuffed_Blueprint.label>
 
   <RadiatorLarge.label>Grand radiateur</RadiatorLarge.label>
   <RadiatorLarge.description>3 fois la puissance d'un radiateur standard, utile dans les grandes pièces.\n\nNécessite 300 unités de chauffage.</RadiatorLarge.description>
@@ -39,12 +38,13 @@
   <CeilingFanS.label>Ventilateur de plafond 1x1</CeilingFanS.label>
   <CeilingFanS.description>Refroidit une pièce en faisant circuler l'air, une lampe est intégrée.</CeilingFanS.description>
   
-  <AirConOutdoorUnit.label>convecteurs extérieurs</AirConOutdoorUnit.label>
-
-  <AirconIndoorUnit.label>climatisation</AirconIndoorUnit.label>
+  <AirConOutdoorUnit.label>Convecteurs extérieurs</AirConOutdoorUnit.label>
+  <AirConOutdoorUnit.description>Climatiseur multi-split. Placez-le à l'extérieur et raccordez-le à des unités intérieures ou à des unités de congélation. Sélectionnez le mode d'alimentation pour une capacité allant de 100 à 1000 unités de refroidissement</AirConOutdoorUnit.description>
+  
+  <AirconIndoorUnit.label>Climatisation</AirconIndoorUnit.label>
   <AirconIndoorUnit.description>Le climatiseur intérieur doit être connecté à un convecteur extérieur.\n\nNécessite 100 unités de refroidissement.</AirconIndoorUnit.description>
 
-  <FreezerUnit.label>congélateur</FreezerUnit.label>
+  <FreezerUnit.label>Congélateur</FreezerUnit.label>
   <FreezerUnit.description>Congélateur pour la congelation, nécessite une connexion aux convecteurs extérieurs.\n\nNécessite 300 unités de refroidissement.</FreezerUnit.description>
 
   <LogBoiler.comps.CompBoiler.GizmoLabel>Power Mode</LogBoiler.comps.CompBoiler.GizmoLabel>
